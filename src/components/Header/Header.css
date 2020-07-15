@@ -1,0 +1,10 @@
+.header-container {
+	height: 50px;
+	display: inline-block;
+	text-align: center;
+	position: relative;
+}
+
+.reset-button {
+	margin: 5px;
+}
